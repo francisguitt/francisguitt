@@ -12,7 +12,7 @@
 <img align="center" alt="html-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="css-3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="javascript" src="https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=C++5&logoColor=blue">
+
   
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
@@ -20,10 +20,13 @@
 <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img align="center" alt="react-js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
+  
+<img align="center" alt="c++" src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=C++&logoColor=white">
 <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 <img align="center" alt="postgreas-sql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-
+  
+<img align="center" alt="c" src="https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c&logoColor=white">
 <img align="center" alt="mongo-db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img align="center" alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
