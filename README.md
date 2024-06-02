@@ -26,7 +26,7 @@
 
 <img align="center" alt="postgreas-sql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   
-<img align="center" alt="c" src="https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c&logoColor=white">
+<img align="center" alt="c" src="https://img.shields.io/badge/c-007ACC?style=for-the-badge&logo=c&logoColor=white">
 <img align="center" alt="mongo-db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img align="center" alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
